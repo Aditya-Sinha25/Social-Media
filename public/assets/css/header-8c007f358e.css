@@ -1,0 +1,12 @@
+#head {
+  background-color: aqua;
+  display: inline-block;
+  width: 100%; }
+  #head span {
+    display: inline-block;
+    width: 75%; }
+  #head ul li {
+    list-style: none;
+    width: 25%;
+    margin-right: 2%;
+    display: inline-block; }
